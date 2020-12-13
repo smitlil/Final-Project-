@@ -1,0 +1,13 @@
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.exe
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.deps.json
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.runtimeconfig.json
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.runtimeconfig.dev.json
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.dll
+C:\Users\Leel\Desktop\Final_project\Final-Project-\bin\Debug\netcoreapp3.1\Final-Project-.pdb
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.csprojAssemblyReference.cache
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.AssemblyInfoInputs.cache
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.AssemblyInfo.cs
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.csproj.CoreCompileInputs.cache
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.dll
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.pdb
+C:\Users\Leel\Desktop\Final_project\Final-Project-\obj\Debug\netcoreapp3.1\Final-Project-.genruntimeconfig.cache
